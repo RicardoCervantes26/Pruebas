@@ -42,7 +42,7 @@ public class NewMain {
         // Resultados
         System.out.println("\nResultados:");
         System.out.println("Promedio: " + promedio);
-        System.out.println("Nota más alta: " + mayor);
+    
 
     }
 }
