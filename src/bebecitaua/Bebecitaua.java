@@ -16,6 +16,8 @@ public class Bebecitaua {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("BBCITA UA UA");
+        System.out.println("HGDHGAIBD");
+        System.out.println("fmefmwe");
     }
     
 }
