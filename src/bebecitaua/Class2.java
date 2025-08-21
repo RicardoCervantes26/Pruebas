@@ -33,7 +33,9 @@ public class Class2 {
         System.out.println("\n\nNotas ordenadas de menor a mayor:");
         for (int n : notas) {
             System.out.print(n + " ");
+            System.out.println("Gracias");
         }
     }
 }
+
 
